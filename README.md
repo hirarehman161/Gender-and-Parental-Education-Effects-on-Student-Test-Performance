@@ -21,7 +21,6 @@ This report analyses the performance of 486 students in Mathematics and Language
 | File | Description |
 |------|-------------|
 | `report.pdf` | Final application report (PDF) |
-| `report.tex` | LaTeX source for the report |
 | `analysis.ipynb` | Jupyter notebook with the complete analysis code |
 | `Scores.csv` | Dataset provided by TU Dortmund |
 | `figure1_gender_boxplot.png` | Boxplot of scores by gender |
