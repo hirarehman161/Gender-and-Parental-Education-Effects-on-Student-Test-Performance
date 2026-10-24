@@ -1,0 +1,16 @@
+# Python 3.10 or newer.
+#
+# The notebook needs all of these. effect_sizes_rq2.py needs only pandas, numpy and scipy.
+#
+# Minimums rather than exact pins, because the analysis uses long-stable APIs and nothing here
+# changed behaviour across these ranges. The RQ2 effect sizes were last recomputed against
+# pandas 3.0.5, numpy 2.5.1 and scipy 1.18.1.
+
+pandas>=2.0
+numpy>=1.24
+scipy>=1.10
+matplotlib>=3.7
+seaborn>=0.12
+statsmodels>=0.14
+scikit-posthocs>=0.7
+jupyter>=1.0
